@@ -1,5 +1,5 @@
 import React from "react";
-import { Flame, BookOpen, Award, Sparkles } from "lucide-react";
+import { Flame, BookOpen } from "lucide-react";
 import AsamaRehberi from "./components/AsamaRehberi";
 
 export default function App() {
