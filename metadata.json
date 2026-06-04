@@ -1,0 +1,6 @@
+{
+  "name": "Ortaokul Münazara Rehberi",
+  "description": "Ortaokul öğrencileri için klasik münazara yarışması hazırlık rehberi, jüri puanlama kriterleri ve yapay zeka destekli savunma taslağı oluşturucu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
